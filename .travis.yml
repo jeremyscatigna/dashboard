@@ -3,7 +3,7 @@ before_install:
   - gem install bundler
 cache: bundler
 rvm:
-  - 2.6
+  - 2.6.5
 services:
   - postgresql
 before_script:
