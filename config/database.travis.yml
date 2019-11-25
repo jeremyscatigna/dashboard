@@ -1,0 +1,4 @@
+# config/database.travis.yml
+test:
+  adapter: postgresql
+  database: dashboard_test
